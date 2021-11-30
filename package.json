@@ -1,5 +1,5 @@
 {
-  "homepage": "https://SolJCam.github.io/React-Search-Videos",
+  "homepage": "https://react-utube.netlify.app",
   "name": "videos",
   "version": "0.1.0",
   "private": true,
@@ -11,6 +11,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^3.4.2",
+    "vercel": "^23.1.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
